@@ -1,0 +1,117 @@
+{
+    "id" : 12345,
+    "name" : "Anil Kumar",
+    "designation" : "PA",
+    "skills" : [ 
+        "Java/J2EE", 
+        "Spring", 
+        "Hibernate"
+    ],
+    "status" : "Available"
+}
+{
+    "id" : 23451,
+    "name" : "Arun",
+    "designation" : "A",
+    "skills" : [ 
+        "Java/J2EE", 
+        "Spring", 
+        "Hibernate", 
+        "Angular2"
+    ],
+    "status" : "Available"
+}
+{
+    "id" : 34512,
+    "name" : "Ravi Kiran",
+    "designation" : "A",
+    "skills" : [ 
+        "Java/J2EE", 
+        "Spring", 
+        "Hibernate", 
+        "NodeJS"
+    ],
+    "status" : "Available"
+}
+{
+    "id" : 45123,
+    "name" : "Anusha",
+    "designation" : "PA",
+    "skills" : [ 
+        "Java/J2EE", 
+        "Spring", 
+        "Hibernate"
+    ],
+    "status" : "Available"
+}
+{
+    "id" : 51234,
+    "name" : "Raj Kiran",
+    "designation" : "A",
+    "skills" : [ 
+        "Java/J2EE", 
+        "Spring", 
+        "Hibernate", 
+        "MongoDB"
+    ],
+    "status" : "Available"
+}
+{
+    "id" : 123456,
+    "name" : "Ravi",
+    "designation" : "PA",
+    "skills" : [ 
+        "Java/J2EE", 
+        "Spring", 
+        "Hibernate"
+    ],
+    "status" : "Available"
+}
+{
+    "id" : 234561,
+    "name" : "Basha",
+    "designation" : "A",
+    "skills" : [ 
+        "Java/J2EE", 
+        "Spring", 
+        "Hibernate", 
+        "Angular2", 
+        "NodeJS"
+    ],
+    "status" : "Available"
+}
+{
+    "id" : 345612,
+    "name" : "Sunder Setti",
+    "designation" : "PA",
+    "skills" : [ 
+        "Java/J2EE", 
+        "Spring", 
+        "Hibernate", 
+        "NodeJS"
+    ],
+    "status" : "Available"
+}
+{
+    "id" : 456123,
+    "name" : "Prveen",
+    "designation" : "A",
+    "skills" : [ 
+        "Java/J2EE", 
+        "Spring", 
+        "Hibernate", 
+        "ReactJS"
+    ],
+    "status" : "Available"
+}
+{
+    "id" : 561234,
+    "name" : "Pepsi",
+    "designation" : "A",
+    "skills" : [ 
+        "Java/J2EE", 
+        "Spring", 
+        "Hibernate"
+    ],
+    "status" : "Available"
+}
