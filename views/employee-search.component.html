@@ -1,30 +1,11 @@
-<table border="1" align="center">
-    <thead align="center">
-    <tr>
-        <th style="width: 20%">
-            Employee Id
-        </th>
-        <th style="width: 20%">
-            Name
-        </th>
-        <th style="width: 10%">
-            Designation
-        </th>
-        <th style="width: 40%">
-            Skills
-        </th>
-        <th style="width: 20%">
-           Status
-        </th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr *ngFor="let employee of employees" align="center">
-        <td>{{employee.id}}</td>
-        <td>{{employee.name}}</td>
-        <td>{{employee.designation | uppercase}}</td>
-        <td>{{employee.skills}}</td>
-        <td>{{employee.status}}</td>
-    </tr>
-    </tbody>
-</table>
+<div>
+    <p></p>
+</div>
+<p-dataTable [value]="employees" [paginator]="true" rows="10" [responsive]="true">
+    <p-column field="id" header="Employee Id" [sortable]="true" [style]="{'width':'10%'}"></p-column>
+    <p-column field="name" header="Name" [sortable]="true" [style]="{'width':'10%'}"></p-column>
+    <p-column field="designation" header="Designation" [sortable]="true" [style]="{'width':'10%'}"></p-column>
+    <p-column field="skills" header="Skills" [sortable]="true" [style]="{'width':'30%'}"></p-column>
+    <p-column field="status" header="Status" [sortable]="true" [style]="{'width':'10%'}"></p-column>
+    <p-column field="" header="Interview" [style]="{'width':'10%'}"></p-column>
+</p-dataTable>
